@@ -1,0 +1,13 @@
+# Packages, !!some of these may be installed in AUR/FLATPAK/ARCHLINUX-ARTIXSUPPORT!! just be careful or you might break your system or dependency hell!
+
+xorg = xorg group to solved most dependencies especially with wm or de.
+pragah = music player if you're using arch and not artix although you may find other music players like strawberry, etc etc.
+gamemode = if you're using systemd as a init system, couldn't figure out how to set this in artix/runit in my case.
+libertinus-font = if your distro have it on their repo or arch linux.
+lutris = not available in the artix repo but can be enabled with the artixlinux-archlinux support.
+pulseaudio = bloated but if for whatever reason that you cant use pipewire-pulse, use pulse instead or alsa if you really want that minimalist setup.
+qjackctl = to show your audio graph with pipewire, couldn't really use it with my case since i use pavucontrol.
+ANY CLI volume control = have tried ncpamixer but aur be messing with it, also recommended if you really wanna get used to cli/terminal based applications/software.
+lf = still W.I.P as far as im concerned.
+ttf-joypixels = not available in artix repo by default, use the artix-arch support package and enable the arch repo by your own risk!
+
