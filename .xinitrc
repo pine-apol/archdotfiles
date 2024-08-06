@@ -57,6 +57,9 @@ exec /usr/bin/wireplumber &
 picom --config $HOME/.config/picom/picom.conf -b
 ~/.fehbg
 
+# setxkbmaps
+setxkbmap -option caps:escape &
+
 # Suckless
 slstatus &
 exec dwm
