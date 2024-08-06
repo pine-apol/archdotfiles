@@ -1,0 +1,13 @@
+# WM
+dwm - suckless's dynamic window manager
+dmenu - suckless's runner
+st - suckless's simple terminal
+# Choose Between
+slstatus - suckless's status bar or
+dwmblocks - configurable status bar 
+# Dot files and scripts availble info at github
+xinitrc - copied from X11/xinit/xinitrc to HOME/USER/.xinitrc
+bashrc - can be copied from github or any other bashrc stuff
+volume status script - available at repo or make a new one
+
+
