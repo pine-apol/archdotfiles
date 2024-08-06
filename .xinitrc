@@ -61,6 +61,6 @@ picom --config $HOME/.config/picom/picom.conf -b
 setxkbmap -option caps:escape &
 
 # Suckless
-slstatus &
+dwmblocks &
 exec dwm
 
