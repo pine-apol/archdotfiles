@@ -80,6 +80,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji 1:2.042-1
 noto-fonts-extra 1:24.8.1-1
 nsxiv 32-4
+openssh-runit 20180429-4
 p7zip 1:17.05-2
 pacman-contrib 1.10.6-1
 paru 2.0.3-1
@@ -109,6 +110,7 @@ ttf-liberation 2.1.5-2
 ttf-opensans 1.101-3
 udisks2 2.10.1-4
 ufw 0.36.2-4
+ufw-runit 20200614-3
 unrar 1:7.0.9-1
 unzip 6.0-21
 vim 9.1.0648-1
