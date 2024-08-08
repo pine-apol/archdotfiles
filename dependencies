@@ -33,6 +33,7 @@ intel-media-driver 24.2.5-1
 intel-ucode 20240531-1
 ldns 1.8.3-2
 leafpad 0.8.19-3
+lf-git 32.r33.g0f8359f-1
 lib32-alsa-plugins 1.2.12-1
 lib32-giflib 5.2.2-1
 lib32-gnutls 3.8.6-1
@@ -92,7 +93,6 @@ pipewire-alsa 1:1.2.2-1.1
 pipewire-jack 1:1.2.2-1.1
 pipewire-pulse 1:1.2.2-1.1
 plocate 1.1.22-1
-ranger 1.9.3-11
 runit 2.1.2-31
 scrot 1.11.1-1
 sof-firmware 2024.03-1
