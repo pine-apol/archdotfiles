@@ -33,8 +33,7 @@ intel-media-driver 24.2.5-1
 intel-ucode 20240531-1
 ldns 1.8.3-2
 leafpad 0.8.19-3
-lf-git 32.r33.g0f8359f-1
-lib32-alsa-lib 1.2.12-1
+lf-git 32.r34.gefde1a2-1
 lib32-alsa-plugins 1.2.12-1
 lib32-artix-archlinux-support 1-1
 lib32-gamemode 1.8.1-1
@@ -42,8 +41,6 @@ lib32-giflib 5.2.2-1
 lib32-gnutls 3.8.6-1
 lib32-gst-plugins-base-libs 1.24.6-1
 lib32-gtk3 1:3.24.43-1
-lib32-libgcrypt 1.11.0-1
-lib32-libgpg-error 1.50-1
 lib32-libjpeg-turbo 3.0.3-1
 lib32-libpng 1.6.43-1
 lib32-libpulse 17.0-1
@@ -96,7 +93,7 @@ pacman-contrib 1.10.6-1
 paru 2.0.3-1
 pavucontrol 1:6.1-1
 pcmanfm 1.3.2-1
-picom 11.2-1
+picom-git 2581_11.564.g9918c893_2024.08.09-1
 pipewire 1:1.2.2-1.1
 pipewire-alsa 1:1.2.2-1.1
 pipewire-jack 1:1.2.2-1.1
@@ -132,7 +129,6 @@ vulkan-mesa-layers 1:24.1.5-1
 vulkan-tools 1.3.269-1
 webkit2gtk 2.44.2-1
 wget 1.24.5-3
-whois 5.5.23-1
 wine-staging 9.8-1
 wireplumber 0.5.5-1
 xarchiver 0.5.4.23-1
