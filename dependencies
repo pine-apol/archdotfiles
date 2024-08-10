@@ -1,5 +1,4 @@
 alsa-plugins 1:1.2.12-3
-artix-archlinux-support 3-1
 awesome-terminal-fonts 1.1.0-5
 base 3-5
 base-devel 1-1
@@ -35,7 +34,6 @@ ldns 1.8.3-2
 leafpad 0.8.19-3
 lf-git 32.r34.gefde1a2-1
 lib32-alsa-plugins 1.2.12-1
-lib32-artix-archlinux-support 1-1
 lib32-gamemode 1.8.1-1
 lib32-giflib 5.2.2-1
 lib32-gnutls 3.8.6-1
@@ -70,7 +68,6 @@ libxrender 0.9.11-2
 linux 6.10.3.artix1-2
 linux-firmware 20240703.e94a2a3b-1
 linux-headers 6.10.3.artix1-2
-lxappearance 0.6.3-5
 man-db 2.12.1-1
 man-pages 6.9.1-1
 mesa 1:24.1.5-1
@@ -111,7 +108,6 @@ ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-font-awesome 6.6.0-1
 ttf-hack 3.003-7
 ttf-inconsolata 1:3.000-4
-ttf-jetbrains-mono 2.304-2
 ttf-liberation 2.1.5-2
 ttf-opensans 1.101-3
 udisks2 2.10.1-4
