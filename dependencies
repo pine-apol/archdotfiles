@@ -83,6 +83,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji 1:2.042-1
 noto-fonts-extra 1:24.8.1-1
 nsxiv 32-4
+opendoas 6.8.2-3
 openssh 9.8p1-1
 openssh-runit 20180429-4
 p7zip 1:17.05-2
@@ -114,6 +115,7 @@ ttf-opensans 1.101-3
 udisks2 2.10.1-4
 ufw 0.36.2-4
 ufw-runit 20200614-3
+unimatrix-git r89.5cf67aa-1
 unrar 1:7.0.9-1
 unzip 6.0-21
 vi 1:070224-6
